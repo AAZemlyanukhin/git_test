@@ -572,7 +572,7 @@
         </option>
         <option>
           <name>OOCOutputFile</name>
-          <state>c.srec</state>
+          <state>git.srec</state>
         </option>
         <option>
           <name>OOCCommandLineProducer</name>
@@ -1834,6 +1834,9 @@
       <data/>
     </settings>
   </configuration>
+  <file>
+    <name>$PROJ_DIR$\ext.c</name>
+  </file>
   <file>
     <name>$PROJ_DIR$\main.c</name>
   </file>
